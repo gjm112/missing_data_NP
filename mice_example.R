@@ -1,6 +1,5 @@
 library(mice)
-d
-
+#This line has been added.  
 n <- 50
 set.seed(2020)
 x1 <- sample(0:1,n, replace=TRUE, )
