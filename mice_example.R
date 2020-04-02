@@ -1,4 +1,5 @@
 library(mice)
+d
 
 n <- 50
 set.seed(2020)
